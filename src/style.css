@@ -1,0 +1,229 @@
+.sidebar-class {
+    font-size: 20px;
+    padding-left: 10px;
+    background-color: rgb(62, 167, 209);
+    height: 1000px;
+    width: 200px;
+    color: white;
+}
+
+.common-class {
+    padding-top: 18px;
+}
+
+.components-class {
+    display: flex;
+}
+
+.name-class {
+    width: 180px;
+    font-weight: bold;
+    margin-left: 10px;
+
+}
+
+.margin-class {
+    margin: 10px;
+    margin-top: 30px;
+
+}
+
+.img-class {
+    height: 200px;
+    outline: 1px solid gray;
+    border-radius: 10px;
+    margin-left: 20px;
+    width: 140px;
+}
+
+.detail-class {
+    text-align: center;
+}
+
+.brand-class {
+    font-size: 15px;
+    color: rgb(89, 87, 87);
+    margin-top: 15px;
+}
+
+.price-class {
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.oldprice-class {
+    color: rgb(57, 55, 55);
+    font-size: 15px;
+    text-decoration: line-through;
+    margin-top: 7px;
+}
+
+.rating-class {
+    margin-top: 5px;
+}
+
+.ratingcount-class {
+    margin-top: 5px;
+}
+
+.toleft-class {
+    margin-left: 15px;
+}
+
+
+
+
+.prodName-class {
+    font-size: 22px;
+    width: 300px;
+}
+
+.blueFont-class {
+    font-size: 18px;
+    color: rgb(89, 6, 92);
+}
+
+.display2-class {
+    display: flex;
+    margin-top: 50px;
+}
+
+.margin2-class {
+    margin: 80px;
+    margin-left: 10px;
+}
+
+.img2-class {
+    height: 350px;
+    margin-left: 15px;
+}
+
+.display-class {
+    display: flex;
+    width: 520px;
+
+}
+
+.buy-class {
+    margin-left: 20px;
+}
+
+.cart-class {
+    margin-left: 20px;
+}
+
+.button-class {
+    margin-top: 15px;
+    border-radius: 25px;
+}
+
+
+.marginTop-class {
+    margin-top: 15px;
+    margin-left: 8px;
+
+}
+
+
+
+.headname-class {
+    margin-left: 70px;
+    margin-bottom: 15px;
+    margin-right: 165px;
+}
+
+.headPrice-class {
+    margin-right: 30px;
+    margin-bottom: 15px;
+}
+
+.headTotal-class {
+    margin-left: 25px;
+}
+
+.grand-class {
+    margin-left: 300px;
+}
+
+.checkout-class {
+    margin-top: 15px;
+    margin-left: 400px;
+}
+
+.cartimg-class {
+    height: 50px;
+    margin-right: 20px;
+    margin-left: 10px;
+    width: 40px;
+}
+
+.cross-class {
+    height: 40px;
+   
+}
+
+.qty-class {
+    
+    margin-left: 15px;
+
+}
+
+.amount-class {
+    margin-left: 30px;
+    width:100px ;
+}
+
+.error {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+.checkout-class {
+    margin-top: 15px;
+    margin-left: 400px;
+}
+
+.checkoutPrice {
+    margin-left: 70px;
+    width: 85px;
+    width: 100px;
+}
+
+.cross2-class {
+    height: 20px;
+    margin-left: 5px;
+}
+
+.name2-class {
+    width: 200px;
+    margin-left: 5px;
+}
+
+.cartimg2-class {
+    height: 50px;
+    width: 30px;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+
+.amount2-class {
+    margin-left: 15px;
+    width: 65px;
+}
+
+.products-class {
+    display: flex;
+}
+
+.mobile-class {
+    margin-left: 50px;
+}
+
+.shoe-class {
+    margin-left: 30px;
+}
+
+.dress-class {
+    margin-left: 30px;
+}
