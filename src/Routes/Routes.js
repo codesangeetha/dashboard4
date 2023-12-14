@@ -17,6 +17,11 @@ import PlaceOrderDress from "../Components/PlaceOrderDress";
 import Homepage from "../Components/Homepage";
 
 
+import GetPage from "../Components/GetPage";
+import PostPage from "../Components/PostPage";
+import EditPage from "../Components/EditPage";
+
+
 export default function MainRoutes() {
     return(
         <Routes>
@@ -35,6 +40,11 @@ export default function MainRoutes() {
             <Route path="checkoutdress" element={<CheckOutDress/>} />
             <Route path="placeorderdress" element={<PlaceOrderDress/>} />
             <Route path="homepage" element={<Homepage/>} />
+
+            <Route path="getpage" element={<GetPage/>} />
+            <Route path="postpage" element={<PostPage/>} />
+            <Route path="editpage/:id" element={<EditPage/>} />
+
 
             </Route>
         </Routes>

@@ -20,6 +20,11 @@ export default function Sidebar() {
                 <div className="common-class">
                     <Link to="/dresssite">DressSite</Link>
                 </div>
+
+
+                <div className="common-class">
+                    <Link to="/getpage">GetPage</Link>
+                </div>
                
 
             </div>

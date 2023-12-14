@@ -159,18 +159,18 @@
 
 .cross-class {
     height: 40px;
-   
+
 }
 
 .qty-class {
-    
+
     margin-left: 15px;
 
 }
 
 .amount-class {
     margin-left: 30px;
-    width:100px ;
+    width: 100px;
 }
 
 .error {
@@ -227,3 +227,200 @@
 .dress-class {
     margin-left: 30px;
 }
+
+
+.add-class {
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+.type-class{
+    margin-left: 30px;
+}
+
+.getDisplay {
+    display: flex;
+}
+
+.getName {
+    width: 180px;
+    padding-top: 25px;
+    padding-left: 15px;
+    padding-right: 5px;
+    border-right: 1px solid rgb(226, 219, 219);
+    border-left: 1px solid rgb(226, 219, 219);
+    border-top: 1px solid rgb(226, 219, 219);
+
+}
+
+.getPrice {
+    width: 100px;
+    padding-top: 25px;
+    padding-left: 15px;
+    padding-right: 5px;
+    border-right: 1px solid rgb(226, 219, 219);
+
+    border-top: 1px solid rgb(226, 219, 219);
+}
+
+.getImage {
+    width: 45px;
+    padding-top: 25px;
+    padding-left: 10px;
+    padding-right: 15px;
+    border-right: 1px solid rgb(226, 219, 219);
+    border-top: 1px solid rgb(226, 219, 219);
+    border-bottom: 1px solid rgb(226, 219, 219);
+    
+}
+
+.getType {
+    width: 70px;
+    padding-top: 25px;
+    padding-left: 15px;
+    padding-right: 5px;
+    border-right: 1px solid rgb(226, 219, 219);
+    border-top: 1px solid rgb(226, 219, 219);
+}
+
+.mapName {
+    width: 180px;
+    padding-top: 25px;
+    padding-left: 15px;
+    padding-right: 5px;
+    border-right: 1px solid rgb(226, 219, 219);
+    border-left: 1px solid rgb(226, 219, 219);
+    border-top: 1px solid rgb(226, 219, 219);
+    border-bottom: 1px solid rgb(226, 219, 219);
+}
+
+.mapPrice {
+    padding-top: 25px;
+    padding-left: 15px;
+    padding-right: 5px;
+    border-right: 1px solid rgb(226, 219, 219);
+    border-bottom: 1px solid rgb(226, 219, 219);
+    border-top: 1px solid rgb(226, 219, 219);
+    width: 100px;
+}
+
+.mapImg {
+
+    height: 50px;
+    width: 40px;
+}
+
+.mapdiv {
+    padding-top: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-right: 1px solid rgb(226, 219, 219);
+    border-top: 1px solid rgb(226, 219, 219);
+    border-bottom: 1px solid rgb(226, 219, 219);
+}
+
+.maptype {
+    padding-top: 25px;
+    padding-left: 15px;
+    padding-right: 5px;
+    border-right: 1px solid rgb(226, 219, 219);
+    border-top: 1px solid rgb(226, 219, 219);
+    border-bottom: 1px solid rgb(226, 219, 219);
+    width: 70px;
+}
+
+.left-class {
+    margin-left: 20px;
+}
+
+
+
+.Product-class {
+    font-size: 40px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+}
+
+.label-class {
+    width: 130px;
+    margin-left: 15px;
+    display: inline-block;
+}
+
+.create-class {
+    margin-top: 50px;
+    
+    margin-left: 100px;
+    background-color: green;
+    border-radius: 10px;
+    width: 70px;
+    height: 40px;
+    color: white;
+}
+
+.text1-class {
+    width: 300px;
+}
+
+.text2-class {
+    margin-top: 20px;
+    width: 300px;
+}
+
+.text3-class {
+    margin-top: 20px;
+    width: 300px;
+}
+
+.text4-class {
+    margin-top: 20px;
+    width: 300px;
+}
+
+.text5-class {
+    margin-top: 20px;
+    width: 300px;
+}
+
+.text6-class {
+    margin-top: 20px;
+    width: 300px;
+}
+
+.text7-class {
+    margin-top: 20px;
+    width: 300px;
+}
+
+.text8-class {
+    margin-top: 20px;
+    width: 300px;
+}
+.cross2-class{
+    padding-top: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-right: 1px solid rgb(226, 219, 219);
+    border-top: 1px solid rgb(226, 219, 219);
+    border-bottom: 1px solid rgb(226, 219, 219);
+}
+.crossImg-class{
+    height: 20px;
+    margin-left: 12px;
+}
+.pencilImg-class{
+    height: 20px;
+   
+    margin-left: 12px;
+}
+.edit-class{
+    padding-top: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-right: 1px solid rgb(226, 219, 219);
+    border-top: 1px solid rgb(226, 219, 219);
+    border-bottom: 1px solid rgb(226, 219, 219);
+}
+.update-class{
+    margin-top: 20px;
+    margin-left: 30px;
+   }
